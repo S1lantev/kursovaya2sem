@@ -1,10 +1,18 @@
-804b075|S1lantev|113448901+S1lantev@users.noreply.github.com|Проверить интеграцию и добавить материалы двух семестров
-1c042c6|S1lantev|113448901+S1lantev@users.noreply.github.com|Объединить feature/materials в final
-c79446d|S1lantev|113448901+S1lantev@users.noreply.github.com|Интегрировать три модуля в master
-9af4816|S1lantev|113448901+S1lantev@users.noreply.github.com|Объединить feature/jobs в final
-cbfbb75|S1lantev|113448901+S1lantev@users.noreply.github.com|Объединить feature/bookings в final
-b470e44|S1lantev|113448901+S1lantev@users.noreply.github.com|Реализовать учёт остатков и расход химии
-6bef7af|S1lantev|113448901+S1lantev@users.noreply.github.com|Реализовать смену статусов заданий мастеров
-a6698f1|S1lantev|113448901+S1lantev@users.noreply.github.com|Реализовать запись клиентов и проверку занятости
-0311f9e|S1lantev|113448901+S1lantev@users.noreply.github.com|Подготовить модели данных и раскрывающееся консольное меню
-e70daa3|S1lantev|113448901+S1lantev@users.noreply.github.com|Создать репозиторий курсового проекта
+ffe9235|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Объединить исправления сборки с курсовым отчётом
+0e8fe56|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Синхронизировать исправления feature/materials
+6579cd3|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Синхронизировать исправления feature/jobs
+0451ed1|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Синхронизировать исправления feature/bookings
+fd84e09|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Исправить сборку функциональной ветки
+0223755|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Добавить единый курсовой отчёт и проект для Visual Studio
+1d16575|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Исправить сборку функциональной ветки
+f163554|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Исправить сборку функциональной ветки
+804b075|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Проверить интеграцию и добавить материалы двух семестров
+1c042c6|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Объединить feature/materials в final
+c79446d|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Интегрировать три модуля в master
+9af4816|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Объединить feature/jobs в final
+cbfbb75|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Объединить feature/bookings в final
+b470e44|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Реализовать учёт остатков и расход химии
+6bef7af|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Реализовать смену статусов заданий мастеров
+a6698f1|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Реализовать запись клиентов и проверку занятости
+0311f9e|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Подготовить модели данных и раскрывающееся консольное меню
+e70daa3|S1lantev|113448901+S1lantev@users.noreply.github.com|S1lantev|113448901+S1lantev@users.noreply.github.com|Создать репозиторий курсового проекта
