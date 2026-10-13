@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Linq;
 namespace DetailingCourse {
 public class MaterialsModule:IModule{
  public int Order {get{return 3;}}public string Name {get{return "Материалы и химия";}}
  public static Material Add(Store s,string name,decimal stock,decimal threshold) {
   name=Store.Text(name,"название");if(stock<0||threshold<0)throw new ArgumentException("Остаток и порог неотрицательны.");
-  if(s.Data.Materials.Any(m=>String.Equals(m.Name,name,StringComparison.OrdinalIgnoreCase)))throw new ArgumentException("Материал уже есть.");
+  if(s.Data.Materials.Any(item=>String.Equals(item.Name,name,StringComparison.OrdinalIgnoreCase)))throw new ArgumentException("Материал уже есть.");
   var m=new Material{Id=s.Data.Materials.Count==0?1:s.Data.Materials.Max(x=>x.Id)+1,Name=name,Stock=stock,Threshold=threshold,Reorder=stock<threshold};
   s.Data.Materials.Add(m);return m;
  }
@@ -26,3 +26,4 @@ public class MaterialsModule:IModule{
  }
 }
 }
+
